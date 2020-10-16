@@ -3,11 +3,11 @@ export const homeObjOne = {
     lightText: true,
     lightTextDesc: true,
     topLine: 'Exclusive Access',
-    headLine: 'Unlimited Transactions with zero fees',
-    description: 'Get acccess to our exclusive diamond card that allows you to send unlimited transactions without getting charged any fees',
+    headLine: '"Everything begins with an idea."',
+    description: 'The problem is that the people with the most ridiculous ideas are always the people who are most certain of them.',
     buttonLabel: 'Get Started',
     imgStart: '',
-    img: './inspireme01/images/svg-1.svg',
+    img: './inspireme001/images/thought.svg',
     alt: 'Credit Card'
 }
 export const homeObjTwo = {
@@ -15,11 +15,11 @@ export const homeObjTwo = {
     lightText: true,
     lightTextDesc: true,
     topLine: '100% SECURE',
-    headLine: 'Stay protected 24/7 anywhere anytime',
-    description: 'We have you covered no matter where you are located. Over 140 locations worldwide to ensure you have access anytime',
+    headLine: 'For safety is not a gadget but a state of mind',
+    description: 'You don’t need to know the whole alphabet of Safety. The A, B, C of it will save you if you follow it: Always Be Careful.',
     buttonLabel: 'Learn More',
     imgStart: '',
-    img: './inspireme01/images/svg-5.svg',
+    img: './inspireme001/images/svg-5.svg',
     alt: 'Vault'
 };
 
@@ -28,11 +28,11 @@ export const homeObjThree = {
     lightText: false,
     lightTextDesc: false,
     topLine: 'EASY SETUP',
-    headLine: 'Super fast and simple onboarding process',
-    description: "Get everything set up and ready in under 10 minutes. All you need to do is add your information and you're ready to go.",
+    headLine: '“The mind of man is capable of anything.” ',
+    description: "It's perfectly okay to make a decision and then change your mind. Being able to change your mind is the best way to find out you still have one.",
     buttonLabel: 'Start Now',
     imgStart: 'start',
-    img: './inspireme01/images/svg-7.svg',
+    img: './inspireme001/images/idea.svg',
     alt: 'Vault'
 };
 
@@ -41,10 +41,10 @@ export const homeObjFour = {
     lightText: true,
     lightTextDesc: true,
     topLine: 'DATA ANALYTICS',
-    headLine: 'Every transaction is stored on our secure cloud database',
-    description: 'Never ever have to worry again about saved reciepts. We store your data, so you can access it anytime.',
+    headLine: 'I am still learning.',
+    description: 'A plant needs roots in order to grow. With man it is the other way around: only when he grows does he have roots and feels at home in the world.',
     buttonLabel: 'Sign Up Now',
     imgStart: 'start',
-    img: './inspireme01/images/svg-8.svg',
+    img: './inspireme001/images/svg-8.svg',
     alt: 'Vault'
 }
