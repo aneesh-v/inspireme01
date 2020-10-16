@@ -37,7 +37,7 @@ function Footer() {
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
                         <h2>About Us</h2>
-                        <Link to='/sign-up'>How it works</Link>
+                        <Link to='/'>How it works</Link>
                         <Link to='/'>Testimonials</Link>
                         <Link to='/'>Terms of Service</Link>
                     </div>
@@ -69,7 +69,7 @@ function Footer() {
               aneeshv28@gmail.com
             </Link>
                     </div>
-                    <small className='website-rights'>INSPIRE01-DEMO © 2020</small>
+                    <small className='website-rights'>INSPIREME01-DEMO © 2020</small>
                     <div className='social-icons'>
                         <Link
                             className='social-icon-link'
