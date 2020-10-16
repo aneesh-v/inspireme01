@@ -16,11 +16,11 @@ function Footer() {
         <div className='footer-container'>
             <section className='footer-subscription'>
                 <p className='footer-subscription-heading'>
-                    Join our exclusive membership to receive the latest news and trends
-        </p>
+                    I can help you to sole Business problems by fusing | Creativity | Inovation | Strategy | Craft
+                </p>
                 <p className='footer-subscription-text'>
-                    You can unsubscribe at any time.
-        </p>
+                    Feel free to contact me.
+                </p>
                 <div className='input-areas'>
                     <form>
                         <input
@@ -29,7 +29,7 @@ function Footer() {
                             type='email'
                             placeholder='aneeeshv28@gmail.com'
                         />
-                        <Button buttonStyle='btn--outline'>Subscribe</Button>
+                        <Button buttonStyle='btn--outline'>Demo-button</Button>
                     </form>
                 </div>
             </section>
@@ -73,14 +73,14 @@ function Footer() {
                     <div className='footer-logo'>
                         <Link to='/' className='social-logo'>
                             <MdFingerprint className='navbar-icon' />
-              ANEESH
+              aneeshv28@gmail.com
             </Link>
                     </div>
-                    <small className='website-rights'>ANEESH © 2020</small>
+                    <small className='website-rights'>INSPIRATION01-DEMO © 2020</small>
                     <div className='social-icons'>
                         <Link
                             className='social-icon-link'
-                            to='https://www.facebook.com/'
+                            to='//www.facebook.com/'
                             target='_blank'
                             aria-label='Facebook'
                         >
@@ -97,7 +97,7 @@ function Footer() {
                         <Link
                             className='social-icon-link'
                             to={
-                                '//www.youtube.comr'
+                                '//www.youtube.com'
                             }
                             target='_blank'
                             aria-label='Youtube'
