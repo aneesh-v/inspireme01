@@ -27,7 +27,7 @@ function Footer() {
                             className='footer-input'
                             name='email'
                             type='email'
-                            placeholder='Your Email'
+                            placeholder='aneeeshv28@gmail.com'
                         />
                         <Button buttonStyle='btn--outline'>Subscribe</Button>
                     </form>
@@ -80,7 +80,7 @@ function Footer() {
                     <div className='social-icons'>
                         <Link
                             className='social-icon-link'
-                            to='/'
+                            to='https://www.facebook.com/'
                             target='_blank'
                             aria-label='Facebook'
                         >
