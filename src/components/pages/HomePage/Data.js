@@ -7,7 +7,7 @@ export const homeObjOne = {
     description: 'The problem is that the people with the most ridiculous ideas are always the people who are most certain of them.',
     buttonLabel: 'Get Started',
     imgStart: '',
-    img: 'inspireme001/images/thought.svg',
+    img: './inspireme001/images/thought.svg',
     alt: 'Credit Card'
 }
 export const homeObjTwo = {
